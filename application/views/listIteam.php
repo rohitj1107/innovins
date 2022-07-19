@@ -25,14 +25,14 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-  <a href="http://www.webdamn.com" class="navbar-brand">WEBDAMN.COM</a>
+  <a href="#" class="navbar-brand">DEMO.COM</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a href="http://www.webdamn.com" class="nav-link">Home</a>
+        <a href="#" class="nav-link">Home</a>
       </li>      
     </ul>
   </div>  
